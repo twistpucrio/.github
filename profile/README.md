@@ -6,10 +6,10 @@
 # Formação: 
 <ul>
   <li>Desenvolvimento de front-end (HTML, CSS e Javascript).</li>
-  <li>Metodologia de desenvolvimento Scrum.</li>
+  <li>Metodologia de desenvolvimento Ágil - Scrum.</li>
   <li>Ciclo de desenvolvimento de programas.</li>
   <li>Técnicas para trabalho em equipe e de apresentação de resultados.</li>
-  <li>Repositórios de programas.</li>
+  <li>Repositórios de programas (GitHub).</li>
 </ul>
 </p>
 
